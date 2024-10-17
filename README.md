@@ -1,5 +1,7 @@
 # Pony Express - a chat application
 
+Web Development 2 is a course at the University of Utah where students learn to develop React Web Apps, and extends upon web development principles and database (SQLite) interactions that were introduced in Web Development 1.
+
 ## Backend
 
 The backend of the application is written in python using the
